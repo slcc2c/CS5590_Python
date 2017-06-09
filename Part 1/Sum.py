@@ -23,6 +23,8 @@ print ('Here is some output')
 #print num1,' plus ',num2,' equals ',num1+num2   --python2
 #print 'Thanks for playing'
 
+password = input('what is your password?')
+print(password)
 print (num1,' plus ',num2,' equals ',num1+num2)
 
 print ('Thanks you. END')
