@@ -27,3 +27,14 @@ def get_words():
         word = input("Please enter your another word or hit enter on a blank line to exit: ")
     return words
 print(longest_word(get_words()))
+
+def letter_number_count(string):
+    nums = 0
+    string = str(string)
+    for l in string:
+        if l.isdigit():
+            nums+=1
+    return (nums, len(string)-nums)
+string = input("What string would you like to know the counts of letters/numbers for? ")
+temp = letter_number_count(string)
+print("There are ",temp[0]," numbers and ",temp[1], "letters in this string")
