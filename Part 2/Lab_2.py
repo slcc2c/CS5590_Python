@@ -46,3 +46,17 @@ def entire_alphabet(str):
 print(entire_alphabet(string.ascii_lowercase))
 print(entire_alphabet(string.ascii_uppercase))
 print(entire_alphabet("Thiswillreturnfalse"))
+
+#Task 3:
+#Write a Python program to find those numbers which are divisible by 7 and multiple of 5, between 1500 and 2700
+
+def nums_w_conditions():
+	print("Finding first #")
+	for i in range(1501,2700,1):
+		if(i%5==0 and i%7==0):
+			break
+		else:
+			continue
+	for j in range(i,2700,35):
+		print(j," :", i%5==0 and i%7==0)
+nums_w_conditions()
