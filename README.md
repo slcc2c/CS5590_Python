@@ -6,3 +6,4 @@
 [ICE 4](https://github.com/slcc2c/CS5590_Python/wiki/ICE-4)
 [Lab 4](https://github.com/slcc2c/CS5590_Python/wiki/Lab-4)
 [ICE 5](https://github.com/slcc2c/CS5590_Python/wiki/ICE-5)
+[Lab 5](https://github.com/slcc2c/CS5590_Python/wiki/Lab-5)
