@@ -9,3 +9,5 @@
 [Lab 5](https://github.com/slcc2c/CS5590_Python/wiki/Lab-5)
 [ICE 6](https://github.com/slcc2c/CS5590_Python/wiki/ICE-6)
 [LAB 6](https://github.com/slcc2c/CS5590_Python/wiki/Lab-6)
+[ICE 7](https://github.com/slcc2c/CS5590_Python/wiki/ICE-7)
+[ICE 8](https://github.com/slcc2c/CS5590_Python/wiki/ICE-8)
